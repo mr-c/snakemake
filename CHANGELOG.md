@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [9.20.0](https://github.com/snakemake/snakemake/compare/v9.19.0...v9.20.0) (2026-04-24)
+
+
+### Features
+
+* add a helper function that translate Python script names into corresponding module names ([#4065](https://github.com/snakemake/snakemake/issues/4065)) ([c74c0a0](https://github.com/snakemake/snakemake/commit/c74c0a0a55e12ae69af5989b5e4ac1e1a35d7bc3))
+
+
+### Bug Fixes
+
+* CLI/profile runtime override is interpreted as minutes not as seconds ([#4053](https://github.com/snakemake/snakemake/issues/4053)) ([0fc5fd1](https://github.com/snakemake/snakemake/commit/0fc5fd14bf8707812abac14ccfeac0eb8093005d))
+
 ## [9.19.0](https://github.com/snakemake/snakemake/compare/v9.18.2...v9.19.0) (2026-03-28)
 
 
